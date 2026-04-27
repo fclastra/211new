@@ -1,0 +1,2 @@
+Usuario=fabio
+Info Usuario=uid=1000(fabio) gid=1000(fabio) grupos=1000(fabio),24(cdrom),25(floppy),29(audio),30(dip),44(video),46(plugdev),100(users),106(netdev),112(bluetooth),114(lpadmin),117(scanner)
